@@ -10,5 +10,5 @@ This contains the values of all buttons present in the app.
 This contains all the logic behind the working of the app and also contains the display settings of the app.
 
 ## Screenshots
-![Screenshot 2023-08-28 225201](https://github.com/AadityaPanda/CalculatorApp/assets/95534176/3cfcfd58-c02f-4ee1-9892-9cb06b9eb751)
-![Screenshot 2023-08-28 225305](https://github.com/AadityaPanda/CalculatorApp/assets/95534176/4d30d69d-6b0e-4919-a6b2-234b1aa1bed2)
+![Screenshot 2023-08-28 225201](https://github.com/AadityaPanda/calculator/assets/95534176/2fc076a1-bc9c-4fe0-a4eb-435c3a8b6cbb)
+![Screenshot 2023-08-28 225305](https://github.com/AadityaPanda/calculator/assets/95534176/91a51260-485c-4c8a-82cd-2e4dde67a7de)
