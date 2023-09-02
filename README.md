@@ -1,16 +1,14 @@
-# calculator
+# Calculator App
+This is a simple calculator app based on Flutter. The *Dart* programming language has been used here to create this app. This was designed to be smoothly run on Android Phones. To test this an Android Emulator of *Pixel 7a* was used.
 
-A new Flutter project.
+It contains three files:
+### 1. main.dart
+This is the output file that runs the app.
+### 2. button_values.dart
+This contains the values of all buttons present in the app.
+### 3. calculator_screen.dart
+This contains all the logic behind the working of the app and also contains the display settings of the app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Screenshot 2023-08-28 225201](https://github.com/AadityaPanda/CalculatorApp/assets/95534176/3cfcfd58-c02f-4ee1-9892-9cb06b9eb751)
+![Screenshot 2023-08-28 225305](https://github.com/AadityaPanda/CalculatorApp/assets/95534176/4d30d69d-6b0e-4919-a6b2-234b1aa1bed2)
